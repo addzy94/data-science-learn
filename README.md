@@ -1,2 +1,2 @@
-# scikit-learn-refresh
-Learning Scikit Learn
+# data-science-learn
+Refreshing Data Science
